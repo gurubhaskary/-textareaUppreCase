@@ -1,0 +1,24 @@
+.Count{
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid;
+    background-color: grey;
+}
+
+.count button{
+    margin: 16px;
+}
+
+.count p{
+    font-size: 25px;
+}
+
+.Increase{
+    background-color: green;
+}
+.decrease{
+    background-color: red;
+}
+.Reset{
+    background-color: blue;
+}
